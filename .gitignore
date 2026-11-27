@@ -1,0 +1,27 @@
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+.venv*/
+*.egg-info/
+
+# Downloaded AI Models & Local Voice Caches
+models/
+*.pt
+*.safetensors
+*.onnx
+
+# Generated Audio, Frames, Previews & Videos
+**/vo_parts/
+**/vo_*.wav
+**/timings.json
+**/frames_*/
+**/out/
+**/preview/
+*.mp4
+*.blend
+*.blend1
+*.log
+
+# Keep documentation showcase images tracked
+!docs/assets/*.png
+!docs/assets/*.jpg

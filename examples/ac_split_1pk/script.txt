@@ -1,0 +1,9 @@
+S01|Pendingin kamar menyala seharian, / kok udara panas / bisa mendadak jadi / sedingin es?!
+S02|Banyak yang kira / mesin pendingin menciptakan / dingin, padahal sebenarnya / cuma memindahkan panas / ke luar rumah!
+S03|Rahasianya ada di / cairan bernama freon / yang terus berputar / di pipa tembaga.
+S04|Di unit indoor, / freon super dingin / mengalir lewat evaporator / dan menyerap panas / udara kamarmu!
+S05|Kipas blower lalu / meniupkan udara sejuk / itu kembali ke / seluruh ruangan.
+S06|Sementara freon pembawa / panas tadi ditarik / menuju kompresor di / unit outdoor!
+S07|Di sini gas / ditekan sampai panas, / lalu kipas besar / membuang panas itu / lewat kondensor!
+S08|Terakhir, cairan melewati / katup ekspansi kecil / sehingga tekanannya jatuh / dan membeku dingin lagi!
+S09|Siklus ini berputar / terus tanpa henti, / makanya outdoor panas / tapi kamarmu sejuk. / Mau bedah apa lagi? / Tulis di komentar ya!

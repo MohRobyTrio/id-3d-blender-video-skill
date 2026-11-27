@@ -1,0 +1,12 @@
+{
+  "name": "cara-kerja-ac-1pk",
+  "scene_file": "scene.py",
+  "language": "id",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "lead_in_sec": 0.25,
+  "tail_sec": 1.35,
+  "caption_style": "phrases",
+  "caption_y_frac": 0.675
+}
